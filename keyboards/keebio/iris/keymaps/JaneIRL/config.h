@@ -1,9 +1,9 @@
-#include "config_common.h"
+// #include "config_common.h"
 
 #define TAPPING_TERM 150
 #define TAPPING_TERM_PER_KEY
 #define PERMISSIVE_HOLD
-#define IGNORE_MOD_TAP_INTERRUPT
+// #define IGNORE_MOD_TAP_INTERRUPT
 
 // https://docs.qmk.fm/#/feature_rgblight?id=lighting-layers
 #define RGBLIGHT_LAYERS
